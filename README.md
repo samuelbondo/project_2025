@@ -8,5 +8,5 @@ Admin: username&pass:admin/password
 Student: test.student/password
 Philip Suah: philip.suah / password
 Hawa Suah: hawa.suah / password
-
+Please feel free to download the project zip and unzip it after before using.
 demo:https://reach.gt.tc
